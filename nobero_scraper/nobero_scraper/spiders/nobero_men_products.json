@@ -1,0 +1,17 @@
+[
+{"title": "Lunar Echo Oversized T-Shirt",
+ "price": "₹599", "MRP": "₹999",
+  "last_7_day_sale": "398 people bought this in last\n        7 days",
+   "available_skus": [
+        {
+            "color": "- Black",
+            "size": ["S", "M", "L", "XL", "XXL", "XXXL"]
+        },
+        {
+            "color": "- Black",
+            "size": ["XXL"]
+        }
+    ], 
+    "fit": "Oversized Fit"
+}
+]
